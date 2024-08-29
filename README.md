@@ -1,2 +1,2 @@
-# CodEvo-Solution-DA
+# CodEvo-Solutions-DA
 Data Analytics Internship Projects
